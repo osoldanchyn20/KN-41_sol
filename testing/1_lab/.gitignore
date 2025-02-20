@@ -1,2 +1,6 @@
 sandra_env/*
 __pycache__/
+.coverage
+coverage.xml
+temp.csv
+*.npz

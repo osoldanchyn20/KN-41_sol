@@ -32,6 +32,19 @@
 👍  python 1.py
 🟥  deactivate
 🟩  exit
+🟩  pip install --user poetry
+🟥  poetry add requests
+🟩  poetry init
+🟩  poetry --version
+🟩  poetry newpoetry add requests myproject
+🟩  poetry add requests
+poetry show
+poetry show --tree
+poetry remove requests
+poetry update
+poetry env activate
+poetry env list
+poetry env info
 
 ```
 ### **Скріншоти:**
@@ -47,7 +60,12 @@
 ![alt text](./images_all/image9.png)
 ![alt text](./images_all/image10.png)
 ![alt text](./images_all/image11.png)
-![alt text](./images_all/image12.png)
+![alt text](./images_all/image13.png)
+![alt text](./images_all/image14.png)
+![alt text](./images_all/image15.png)
+![alt text](./images_all/image16.png)
+![alt text](./images_all/image17.png)
+![alt text](./images_all/image18.png)
 
 -----------------------------------
 
