@@ -38,13 +38,13 @@
 🟩  poetry --version
 🟩  poetry newpoetry add requests myproject
 🟩  poetry add requests
-poetry show
-poetry show --tree
-poetry remove requests
-poetry update
-poetry env activate
-poetry env list
-poetry env info
+👍  poetry show
+👍  poetry show --tree
+👍  poetry remove requests
+👍  poetry update
+👍  poetry env activate
+👍  poetry env list
+👍  poetry env info
 
 ```
 ### **Скріншоти:**
