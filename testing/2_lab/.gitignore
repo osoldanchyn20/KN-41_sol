@@ -1,0 +1,11 @@
+__pycache__/
+.coverage
+coverage.xml
+temp.csv
+*.npz
+*.pyc
+*.pyo
+*.pyd
+.venv/
+pipenv/
+poetry.lock
