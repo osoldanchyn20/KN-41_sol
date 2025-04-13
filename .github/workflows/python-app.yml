@@ -35,10 +35,10 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run app # Це просто назва кроку
       run: |
-        python ./KN-41_sol/testing/2_lab/app.py 
+        python ./testing/2_lab/app.py 
     - name: Run assert_class # Це просто назва кроку
       run: |
-        python ./KN-41_sol/testing/2_lab/assert_class.py 
+        python ./testing/2_lab/assert_class.py 
     - name: Test with pytest
       run: |
         pytest
