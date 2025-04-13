@@ -3,11 +3,16 @@
 
 name: sol_workflow
 
+
 on:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  schedule:
+    - cron: '35 22 * * 6'
+
 
 permissions:
   contents: read
