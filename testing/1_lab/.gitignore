@@ -4,3 +4,20 @@ __pycache__/
 coverage.xml
 temp.csv
 *.npz
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+

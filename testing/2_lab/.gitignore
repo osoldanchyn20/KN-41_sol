@@ -1,11 +1,17 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-.coverage
-coverage.xml
-temp.csv
-*.npz
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+*.so
+
+# Virtual environment
 .venv/
-pipenv/
-poetry.lock
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+
